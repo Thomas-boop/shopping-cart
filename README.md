@@ -1,13 +1,13 @@
 # Shopping cart
 
-A simple fake store React app.
+A simple fake store React app for an american market
 
-[Live Demo]
+## live Demo: https://thomas-boop.github.io/shopping-cart/
 
 ## Getting started
 
 ```
-cd shopping-car
+cd shopping-cart
 npm install
 npm start
 ```
